@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Bloog Test",
+        "fee": "05",
+        "image": "https://github.com/Md-Badhon-Sheikh/study/blob/main/test/blood-test.jpg?raw=true",
+        "document": "Most blood tests only take a few minutes to complete and are carried out at your GP surgery or local hospital by a doctor, nurse or phlebotomist (a specialist in taking blood samples)."
+    },
+    {
+        "id": 2,
+        "name": "Corona Test",
+        "fee": "10",
+        "image": "https://github.com/Md-Badhon-Sheikh/study/blob/main/test/corona-test.jpg?raw=true",
+        "document": "A lot has been discussed about the recent outbreak of Coronavirus. Since there is a lot of misinformation and rumours doing the rounds, it’s easy to get confused. In this blog, we aim to clear all the myths and present you with accurate information."
+    },
+    {
+        "id": 3,
+        "name": "CT Scan",
+        "fee": "100",
+        "image": "https://github.com/Md-Badhon-Sheikh/study/blob/main/test/ct-scan.jpg?raw=true",
+        "document": "stroke is a medical emergency that prevents a part of your brain from getting the oxygen- and nutrient-rich blood it needs. More specifically, stroke affects the arteries that carries blood to and within your brain."
+    },
+    {
+        "id": 4,
+        "name": "Liver Function Test",
+        "fee": "220",
+        "image": "https://github.com/Md-Badhon-Sheikh/study/blob/main/test/liver%20function%20test.jpg?raw=true",
+        "document": "Liver function tests are a group of tests performed to diagnose or evaluate the overall function of the liver and to monitor for any kind of liver abnormalities.Numerous tests can be performed on the liver."
+    },
+    {
+        "id": 5,
+        "name": "Pregnancy Test",
+        "fee": "50",
+        "image": "https://github.com/Md-Badhon-Sheikh/study/blob/main/test/pregnancy%20test.jpg?raw=true",
+        "document": "Waiting for a line to appear on a stick can take an eternity, but so often it’s the first way women realize they’re pregnant. The home pregnancy kit has been a staple on pharmacy shelves since the mid-‘70s."
+    },
+    {
+        "id": 6,
+        "name": "X Ray",
+        "fee": "250",
+        "image": "https://github.com/Md-Badhon-Sheikh/study/blob/main/test/x-ray.jpg?raw=true",
+        "document": "How old is your X-ray equipment? Are you still able to provide medical imaging needed for your patients? With how quickly the  world of medicine advances,"
+    }
+]
